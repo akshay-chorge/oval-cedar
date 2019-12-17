@@ -6,7 +6,7 @@ params:
   header:
     title: Azimuth
     logo_img: images/logo.png
-    has_nav: true
+    has_nav: false
     menu:
       actions:
       - label: Sign Up
