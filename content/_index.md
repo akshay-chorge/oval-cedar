@@ -5,8 +5,7 @@ sections:
   template: section_hero
   section_id: Test
   title: This Is a TEST project for Abhishek Raut.
-  content: 'Azimuth is the perfect theme for developers, designers and entrepreneurs
-    who need a sleek, modern SaaS site. '
+  content: A Demo site developed by Akshay Chorge .
   image: images/hero.png
   actions:
   - label: Learn More
