@@ -13,8 +13,8 @@ params:
         url: "/signup"
   footer:
     logo_img: images/logo_alt.png
-    tagline: SaaS theme by Stackbit
-    has_nav: true
+    tagline: Demo project
+    has_nav: false
     nav_title: Company
     has_social: true
     social_title: Community
