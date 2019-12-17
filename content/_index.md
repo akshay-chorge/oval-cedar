@@ -3,8 +3,8 @@ title: Abhishek Raut
 sections:
 - type: section_hero
   template: section_hero
-  section_id: hero
-  title: This Is A Big Hero Headline
+  section_id: Test
+  title: This Is a TEST project for Abhishek Raut.
   content: 'Azimuth is the perfect theme for developers, designers and entrepreneurs
     who need a sleek, modern SaaS site. '
   image: images/hero.png
