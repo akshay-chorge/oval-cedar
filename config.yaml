@@ -4,7 +4,7 @@ baseURL: "/"
 params:
   palette: blue
   header:
-    title: Azimuth
+    title: Abhishek
     logo_img: images/logo.png
     has_nav: false
     menu:
